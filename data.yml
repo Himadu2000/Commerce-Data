@@ -1,0 +1,127 @@
+subjects:
+  - title: Advanced Level Accounting
+
+    lessons:
+      - lesson: An  Introduction to Accounting
+        theory:
+          sinhala: temp.pdf
+          english: temp.pdf
+        question:
+          sinhala: temp.pdf
+          english: temp.pdf
+        structural_questions:
+          sinhala: temp.pdf
+          english: temp.pdf
+      - lesson: Accounting Equation
+        theory:
+          sinhala: temp.pdf
+          english: temp.pdf
+        question:
+          sinhala: temp.pdf
+          english: temp.pdf
+        structural_questions:
+          sinhala: temp.pdf
+          english: temp.pdf
+
+    past_papers:
+      - year: 2020
+        sinhala: temp.pdf
+        english: temp.pdf
+      - year: 2021
+        sinhala: temp.pdf
+        english: temp.pdf
+      - year: 2022
+        sinhala: temp.pdf
+        english: temp.pdf
+
+    ads:
+      - temp.pdf
+      - temp.pdf
+
+  - title: Advanced Level Economics
+
+    lessons:
+      - lesson: An  Introduction to  Economics Part 01
+        theory:
+          sinhala: temp.pdf
+          english: temp.pdf
+        question:
+          sinhala: temp.pdf
+          english: temp.pdf
+        structural_questions:
+          sinhala: temp.pdf
+          english: temp.pdf
+      - lesson: An  Introduction to  Economics Part 02
+        theory:
+          sinhala: temp.pdf
+          english: temp.pdf
+        question:
+          sinhala: temp.pdf
+          english: temp.pdf
+        structural_questions:
+          sinhala: temp.pdf
+          english: temp.pdf
+
+    past_papers:
+      - year: 2020
+        sinhala: temp.pdf
+        english: temp.pdf
+      - year: 2021
+        sinhala: temp.pdf
+        english: temp.pdf
+      - year: 2022
+        sinhala: temp.pdf
+        english: temp.pdf
+
+    ads:
+      - temp.pdf
+      - temp.pdf
+
+  - title: Ordinary Level Accounting and Business Studies
+
+    lessons:
+      - lesson: Background of the business
+        theory:
+          sinhala: temp.pdf
+          english: temp.pdf
+        question:
+          sinhala: temp.pdf
+          english: temp.pdf
+        structural_questions:
+          sinhala: temp.pdf
+          english: temp.pdf
+      - lesson: Business Environment
+        theory:
+          sinhala: temp.pdf
+          english: temp.pdf
+        question:
+          sinhala: temp.pdf
+          english: temp.pdf
+        structural_questions:
+          sinhala: temp.pdf
+          english: temp.pdf
+
+    past_papers:
+      - year: 2020
+        sinhala: temp.pdf
+        english: temp.pdf
+      - year: 2021
+        sinhala: temp.pdf
+        english: temp.pdf
+      - year: 2022
+        sinhala: temp.pdf
+        english: temp.pdf
+
+    ads:
+      - temp.pdf
+      - temp.pdf
+
+notices:
+  - Example notice 1.
+  - Example notice 2.
+  - Example notice 3.
+
+ads:
+  - temp.png
+  - temp.png
+  - temp.png
