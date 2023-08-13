@@ -2,7 +2,7 @@ subjects:
   - title: Advanced Level Accounting
 
     lessons:
-      - lesson: An  Introduction to Accounting
+      - lesson: Accounting and it's needs
         theory:
           sinhala: temp.pdf
           english: temp.pdf
@@ -102,13 +102,13 @@ subjects:
           english: temp.pdf
 
     past_papers:
+      - year: 2019
+        sinhala: temp.pdf
+        english: temp.pdf
       - year: 2020
         sinhala: temp.pdf
         english: temp.pdf
       - year: 2021
-        sinhala: temp.pdf
-        english: temp.pdf
-      - year: 2022
         sinhala: temp.pdf
         english: temp.pdf
 
