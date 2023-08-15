@@ -10,8 +10,8 @@ subjects:
           sinhala: https://github.com/Himadu2000/Commerce-Data/blob/main/2.%20Accounting%20Introduction%20-%20MCQ.%20Sinhala.pdf
           english: https://github.com/Himadu2000/Commerce-Data/blob/main/1.%20Accounting%20and%20it's%20needs%20-%20MCQ%20-%20English.pdf
         structural_questions:
-          sinhala: temp.pdf
-          english: temp.pdf
+          sinhala: 
+          english: https://github.com/Himadu2000/Commerce-Data/blob/main/1.%20Accounting%20and%20it's%20needs%20-%20Structural%20Questions%20-%20English.pdf
       - lesson: Accounting Equation
         theory:
           sinhala: temp.pdf
