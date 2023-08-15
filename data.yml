@@ -7,11 +7,11 @@ subjects:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/01. 01 .Accounting Introduction - Theory.pdf
           english: temp.pdf
         question:
-          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/2.%20Accounting%20Introduction%20-%20MCQ.%20Sinhala.pdf
-          english: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/1.%20Accounting%20and%20it's%20needs%20-%20MCQ%20-%20English.pdf
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/2. Accounting Introduction - MCQ. Sinhala.pdf
+          english: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/1. Accounting and it's needs - MCQ - English.pdf
         structural_questions:
-          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/1.%20Accounting%20and%20it's%20needs%20-%20Structural%20Questions%20-%20Sinhala.pdf
-          english: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/1.%20Accounting%20and%20it's%20needs%20-%20Structural%20Questions%20-%20English.pdf
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/1. Accounting and it's needs - Structural Questions - Sinhala.pdf
+          english: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/1. Accounting and it's needs - Structural Questions - English.pdf
 
       - lesson: Accounting Equation
         theory:
