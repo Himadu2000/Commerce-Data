@@ -17,10 +17,10 @@ subjects:
 
       - lesson: Accounting Equation
         theory:
-          sinhala: temp.pdf
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/
           english: temp.pdf
         question:
-          sinhala: temp.pdf
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/
           english: temp.pdf
         structural_questions:
           sinhala: temp.pdf
