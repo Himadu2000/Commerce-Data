@@ -24,7 +24,7 @@ subjects:
           sinhala: temp.pdf
           english: temp.pdf
       
-- lesson: Double Entry System
+      - lesson: Double Entry System
         theory:
           sinhala: temp.pdf 
           english: temp.pdf
