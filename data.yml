@@ -23,7 +23,11 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      
+    
+      - lesson: Accounting and it's needs
+        theory:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/1. Accounting Introduction - Theory Sinhala.pdf
+          english: temp.pdf
       
     past_papers:
       - year: 2020
