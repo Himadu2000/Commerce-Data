@@ -25,7 +25,17 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      
+
+      - lesson: Double entry system
+        theory:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
+          english: temp.pdf
+        question:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.02 Accounting Equation - MCQ - Sinhala.pdf
+          english: temp.pdf
+        structural_questions:
+          sinhala: temp.pdf
+          english: temp.pdf
           
  
       
