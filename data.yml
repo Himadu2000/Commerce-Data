@@ -47,7 +47,73 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      
+          
+      - lesson: Accounting Equation/වැරදි නිවැරදි කිරීමේ සටහන්
+        theory:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
+          english: temp.pdf
+        question:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.02 Accounting Equation - MCQ - Sinhala.pdf
+          english: temp.pdf
+        structural_questions:
+          sinhala: temp.pdf
+          english: temp.pdf
+          
+       - lesson: Accounting Equation/පාලන ගිණුම්
+        theory:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
+          english: temp.pdf
+        question:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.02 Accounting Equation - MCQ - Sinhala.pdf
+          english: temp.pdf
+        structural_questions:
+          sinhala: temp.pdf
+          english: temp.pdf
+          
+   - lesson: Accounting Equation/බැංකු සැසදුම් ප්‍රකාශන
+        theory:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
+          english: temp.pdf
+        question:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.02 Accounting Equation - MCQ - Sinhala.pdf
+          english: temp.pdf
+        structural_questions:
+          sinhala: temp.pdf
+          english: temp.pdf
+          
+- lesson: Accounting Equation/ගිණුම්කරණ සංකල්ප
+        theory:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
+          english: temp.pdf
+        question:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.02 Accounting Equation - MCQ - Sinhala.pdf
+          english: temp.pdf
+        structural_questions:
+          sinhala: temp.pdf
+          english: temp.pdf
+          
+- lesson: Accounting Equation/තනි පුද්ගල ව්‍යාපාරයක මූල්‍ය ප්‍රකාශන පිළියෙල කිරීම
+        theory:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
+          english: temp.pdf
+        question:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.02 Accounting Equation - MCQ - Sinhala.pdf
+          english: temp.pdf
+        structural_questions:
+          sinhala: temp.pdf
+          english: temp.pdf
+          
+- lesson: Accounting Equation/නිෂ්පාදන ගිණුම්
+        theory:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
+          english: temp.pdf
+        question:
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.02 Accounting Equation - MCQ - Sinhala.pdf
+          english: temp.pdf
+        structural_questions:
+          sinhala: temp.pdf
+          english: temp.pdf
+
     past_papers:
       - year: 2020
         sinhala: temp.pdf
