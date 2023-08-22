@@ -234,7 +234,7 @@ subjects:
           sinhala: temp.pdf
           english: temp.pdf
      
-      - lesson: Accounting Equation/
+      - lesson: LKAS 18 - Revenues /අයභාරය
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -244,7 +244,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/ගිණුම්කරණ සමීකරණ
+      - lesson: SLFRS 16 (LKAS 17)/කල්බදු
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
