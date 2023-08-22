@@ -59,7 +59,7 @@ subjects:
           sinhala: temp.pdf
           english: temp.pdf
           
-      - lesson: Accounting Equation/පාලන ගිණුම්
+      - lesson: Control Account/පාලන ගිණුම්
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/05.01 Theory Notes - Control Accounts.pdf
           english: temp.pdf
@@ -70,7 +70,7 @@ subjects:
           sinhala: temp.pdf
           english: temp.pdf
           
-      - lesson: Accounting Equation/බැංකු සැසදුම් ප්‍රකාශන
+      - lesson: Bank Reconciliation Statement/බැංකු සැසදුම් ප්‍රකාශන
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -81,7 +81,7 @@ subjects:
           sinhala: temp.pdf
           english: temp.pdf
           
-      - lesson: Accounting Equation/ගිණුම්කරණ සංකල්ප
+      - lesson: Accounting Concepts/ගිණුම්කරණ සංකල්ප
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -92,7 +92,7 @@ subjects:
           sinhala: temp.pdf
           english: temp.pdf
           
-      - lesson: Accounting Equation/තනි පුද්ගල ව්‍යාපාරයක මූල්‍ය ප්‍රකාශන පිළියෙල කිරීම
+      - lesson: Financial Statement of Sole proprietorship/තනි පුද්ගල ව්‍යාපාරයක මූල්‍ය ප්‍රකාශන පිළියෙල කිරීම
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -103,7 +103,7 @@ subjects:
           sinhala: temp.pdf
           english: temp.pdf
           
-      - lesson: Accounting Equation/නිෂ්පාදන ගිණුම්
+      - lesson: Manufacturing Account /නිෂ්පාදන ගිණුම්
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -113,7 +113,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/ලාභ අරමුණු කර නොගත් සංවිධාන වල ගිණුම්
+      - lesson: Financial Statements of Non Profit Organization /ලාභ අරමුණු කර නොගත් සංවිධාන වල ගිණුම්
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -123,7 +123,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/අසම්පූර්ණ සටහන් භාවිතා කරමින් මූල්‍ය ප්‍රකාශන පිළියෙල කිරීම
+      - lesson: preparing Financial Statements using imcomplet records/අසම්පූර්ණ සටහන් භාවිතා කරමින් මූල්‍ය ප්‍රකාශන පිළියෙල කිරීම
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -133,7 +133,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/හවුල් ව්‍යාපාර ගිණුම්කරණය
+      - lesson: Accounting for partnership /හවුල් ව්‍යාපාර ගිණුම්කරණය
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -143,7 +143,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/සමාගම් ගිණුම්කරණය
+      - lesson: Accounting for Companies/සමාගම් ගිණුම්කරණය
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -153,7 +153,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/ගිණුම්කරණ ප්‍රමිත හැඳින්වීම
+      - lesson: An introduction to Accounting Standards/ගිණුම්කරණ ප්‍රමිත හැඳින්වීම
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -163,7 +163,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/මූල්‍ය වාර්තාකරණයේ සංකල්පනාත්මක රාමුව
+      - lesson: Framework for Financial Reporting/මූල්‍ය වාර්තාකරණයේ සංකල්පනාත්මක රාමුව
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -173,7 +173,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/මූල්‍ය ප්‍රකාශන පිළියෙල කිරීම සහ ඉදිරිපත් කිරීම
+      - lesson: LKAS 01 preparing and presenting Financial Statements/මූල්‍ය ප්‍රකාශන පිළියෙල කිරීම සහ ඉදිරිපත් කිරීම
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -183,7 +183,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/තොගය
+      - lesson: LKAS 02 - Inventory /තොගය
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -193,7 +193,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/මුදල් ප්‍රවාහ ප්‍රකාශනය
+      - lesson: LKAS 7 Cash Flow Statements/මුදල් ප්‍රවාහ ප්‍රකාශනය
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -203,7 +203,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/ආන්තික පිරිවැයකරණය
+      - lesson: Marginal Costing/ආන්තික පිරිවැයකරණය
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -213,7 +213,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/ප්‍රාග්ධන ආයෝජන තීරණ 
+      - lesson: Capital Investment Decisions /ප්‍රාග්ධන ආයෝජන තීරණ 
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -273,7 +273,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/ගිණුම්කරණ අනුපාත
+      - lesson: Accounting Ratio/ගිණුම්කරණ අනුපාත
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -283,7 +283,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/කළමනාකරණ ගිණුම්කරණය හැඳින්වීම
+      - lesson: An Introduction to Management Accounting /කළමනාකරණ ගිණුම්කරණය හැඳින්වීම
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -293,7 +293,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/ද්‍රව්‍ය පිරිවැය
+      - lesson: Material Costing/ද්‍රව්‍ය පිරිවැය
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -303,7 +303,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/ශ්‍රම පිරිවැය
+      - lesson: Labour Costing/ශ්‍රම පිරිවැය
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -313,7 +313,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/පොදු කාර්ය පිරිවැය
+      - lesson: Overhead Costing/පොදු කාර්ය පිරිවැය
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -323,7 +323,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/ආන්තික පිරිවැයකරණය
+      - lesson: Marginal Costing/ආන්තික පිරිවැයකරණය
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -333,7 +333,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/ප්‍රාග්දන ආයෝජන තීරණ 
+      - lesson: Capital Investments Decisions /ප්‍රාග්ධන ආයෝජන තීරණ 
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
