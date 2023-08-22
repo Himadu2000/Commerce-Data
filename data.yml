@@ -203,7 +203,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Marginal Costing/ආන්තික පිරිවැයකරණය
+      - lesson: LKAS 08 - changes in Accounting Estimates, Accounting Policy and Accounting erors / ගිණුම්කරණ ඇස්තමේන්තු, ප්‍රතිපත්ති වෙනස්වීම් සහ ගිණුම් ගිණුම්කරණ වැරදි
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -213,7 +213,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Capital Investment Decisions /ප්‍රාග්ධන ආයෝජන තීරණ 
+      - lesson: LKAS 10 - Events After Reporting period /වාර්තා කරන කාල පරිච්ඡේදයට පසු සිදුවීම් 
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -223,7 +223,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/ගිණුම්කරණ සමීකරණ
+      - lesson: LKAS 16 - Property Plant and Equipment /දේපල පිරියත සහ උපකරණ
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -233,7 +233,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/ගිණුම්කරණ සමීකරණ
+      - lesson:SFRS 16 (LKAS 17) Leasing /කල්බදු ගිණුම්කරණය
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
@@ -263,7 +263,7 @@ subjects:
         structural_questions:
           sinhala: temp.pdf
           english: temp.pdf
-      - lesson: Accounting Equation/ගිණුම්කරණ සමීකරණ
+      - lesson: LKAS 37 - provisions, Contingent Assets and Liabilities /ප්‍රතිපාදන, අසම්භාව්‍ය වත්කම් සහ අසම්භාව්‍ය වගකීම්
         theory:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
           english: temp.pdf
