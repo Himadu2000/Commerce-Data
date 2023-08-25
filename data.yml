@@ -342,6 +342,9 @@ subjects:
       - year: 2021
         sinhala: temp.pdf
         english: temp.pdf
+      - year: 2020
+        sinhala: temp.pdf
+        english: temp.pdf
       - year: 2019
         sinhala: temp.pdf
         english: temp.pdf
@@ -361,9 +364,6 @@ subjects:
         sinhala: temp.pdf
         english: temp.pdf
       - year: 2013
-        sinhala: temp.pdf
-        english: temp.pdf
-      - year: 2012
         sinhala: temp.pdf
         english: temp.pdf
       
@@ -427,9 +427,6 @@ subjects:
       - year: 2013
         sinhala: temp.pdf
         english: temp.pdf
-      - year: 2012
-        sinhala: temp.pdf
-        english: temp.pdf
 
     ads:
       - https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/ad.webp
@@ -489,9 +486,6 @@ subjects:
         sinhala: temp.pdf
         english: temp.pdf
       - year: 2013
-        sinhala: temp.pdf
-        english: temp.pdf
-      - year: 2012
         sinhala: temp.pdf
         english: temp.pdf
 
