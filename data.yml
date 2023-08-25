@@ -337,10 +337,10 @@ subjects:
 
     past_papers:
       - year: 2022
-        sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/2020 AL Accounting Past Paper - Sinhala
+        sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/
         english: temp.pdf
       - year: 2021
-        sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/
+        sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/2021-AL-Accounting-Past-Paper-Sinhala-Medium (2).pdf
         english: temp.pdf
       - year: 2020
         sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/
