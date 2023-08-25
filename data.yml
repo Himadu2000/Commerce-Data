@@ -336,16 +336,37 @@ subjects:
           english: temp.pdf
 
     past_papers:
-      - year: 2020
+      - year: 2022
         sinhala: temp.pdf
         english: temp.pdf
       - year: 2021
         sinhala: temp.pdf
         english: temp.pdf
-      - year: 2022
+      - year: 2019
         sinhala: temp.pdf
         english: temp.pdf
-
+      - year: 2018
+        sinhala: temp.pdf
+        english: temp.pdf
+      - year: 2017
+        sinhala: temp.pdf
+        english: temp.pdf
+      - year: 2016
+        sinhala: temp.pdf
+        english: temp.pdf
+      - year: 2015
+        sinhala: temp.pdf
+        english: temp.pdf
+      - year: 2014
+        sinhala: temp.pdf
+        english: temp.pdf
+      - year: 2013
+        sinhala: temp.pdf
+        english: temp.pdf
+      - year: 2012
+        sinhala: temp.pdf
+        english: temp.pdf
+      
     ads:
       - https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/IMG_20230818_220241.jpg
       - https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/ad.webp
