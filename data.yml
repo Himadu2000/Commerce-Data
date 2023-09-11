@@ -214,8 +214,8 @@ subjects:
           english: temp.pdf
       
       - lesson: LKAS 08 - changes in Accounting Estimates, Accounting Policy and Accounting erors / ගිණුම්කරණ ඇස්තමේන්තු, ප්‍රතිපත්ති වෙනස්වීම් සහ ගිණුම් ගිණුම්කරණ වැරදි
-        theory:
-          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
+        theory:22.01 Accounting Polycies - Theory.pdf
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/
           english: temp.pdf
         question:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.02 Accounting Equation - MCQ - Sinhala.pdf
@@ -248,7 +248,7 @@ subjects:
      
       - lesson: LKAS 18 - Revenues /අයභාරය
         theory:
-          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.01 Accounting Equation - Theory sinhala.pdf
+          sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/22.01 Accounting Polycies - Theory.pdf
           english: temp.pdf
         question:
           sinhala: https://raw.githubusercontent.com/Himadu2000/Commerce-Data/main/02.02 Accounting Equation - MCQ - Sinhala.pdf
